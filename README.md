@@ -1,1 +1,1 @@
-# React_Prueba.Junior
+# React_Prueba_Junior
